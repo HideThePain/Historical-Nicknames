@@ -1,0 +1,89 @@
+﻿l_english:
+
+#Cultural Nicknames
+
+ rule_historical_nicknames:0 "#R;medium_glow Historical Nicknames#!"
+ setting_no_nickname_change:0 "No Change"
+ setting_no_nickname_change_desc:0 "Historical Nicknames is inactive."
+ setting_historical_epithets:0 "Historical Nicknames"
+ setting_historical_epithets_desc:0 "Historical Nicknames is active."
+
+
+ nick_the_battler:0 "the Battler"
+ nick_the_battler_desc:1 "To battle is your call"
+ nick_el_batallador:0 "el Batallador"
+ nick_el_batallador_desc:1 "To battle is your call"
+ nick_guiscard:0 "Guiscard"
+ nick_guiscard_desc:1 "Cunning, shrewd, ambitious — [CharYourHerHis(CHARACTER)] virtues may not be chivalrous, but they #EMP are#! effective."
+ nick_transmarinus:0 "Transmarinus"
+ nick_transmarinus_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] from lands distant to here."
+ nick_doutremer:0 "d'Outremer"
+ nick_doutremer_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] from lands distant to here."
+ nick_the_great_chief:1 "the Great Chief"
+ nick_the_great_chief_desc:1 "Also called "Great Chief", [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] considered a strong, uniting force for the realm."
+ nick_canmore:1 "Canmore"
+ nick_canmore_desc:1 "Also called "Great Chief", [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] considered a strong, uniting force for the realm."
+ nick_the_big_headed:1 "the Big Headed"
+ nick_the_big_headed_desc:1 "Also called "Great Chief", [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] considered a strong, uniting force for the realm."
+ 
+ nick_haardraade:0 "Hårdråde"
+ nick_haardraade_desc:1 "To [CharYourHerHis(CHARACTER)] face, people call [CharYouHerHim(CHARACTER)] the $nick_haardraade$. Behind [CharYourHerHis(CHARACTER)] back, [CharYourHerHis(CHARACTER)] joyless attitude and harsh justice see them label [CharYouHerHim(CHARACTER)] $nick_the_tyrant$."
+ nick_hardrada:0 "Hardrada"
+ nick_hardrada_desc:1 "To [CharYourHerHis(CHARACTER)] face, people call [CharYouHerHim(CHARACTER)] the $nick_haardraade$. Behind [CharYourHerHis(CHARACTER)] back, [CharYourHerHis(CHARACTER)] joyless attitude and harsh justice see them label [CharYouHerHim(CHARACTER)] $nick_the_tyrant$."
+ nick_hardruler:0 "Hard Ruler"
+ nick_hardruler_desc:1 "To [CharYourHerHis(CHARACTER)] face, people call [CharYouHerHim(CHARACTER)] the $nick_haardraade$. Behind [CharYourHerHis(CHARACTER)] back, [CharYourHerHis(CHARACTER)] joyless attitude and harsh justice see them label [CharYouHerHim(CHARACTER)] $nick_the_tyrant$."
+
+ nick_augustus:0 "Augustus"
+ nick_augustus_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U] achievements are legendary — commoners sing songs of [CharYourHerHis(CHARACTER)] deeds, and the nobility grumble about unfair expectations."
+ nick_the_aetheling:0 "the Aetheling"
+ nick_the_aetheling_desc:1 "The expected successor of his liege"
+ nick_the_heir:0 "the Heir"
+ nick_the_heir_desc:1 "The expected successor of his liege"
+ nick_the_posthumous:0 "the Posthumous"
+ nick_the_posthumous_desc:1 "Born of his late father"
+ nick_the_venetian:0 "the Venetian"
+ nick_the_venetian_desc:1 "a foreigner from Venice"
+
+ nick_the_campeador:0 "the Campeador"
+ nick_the_campeador_desc:1 "Many argue that there's never been a purer expression of martial virtue of chivalric goodness — [CharYouSheHe(CHARACTER)] disdain[_s(CHARACTER)] praise, and [CharAreIs(CHARACTER)] content to live up to the ideals [CharYouSheHe(CHARACTER)] set[_s(CHARACTER)] [CharYourHerHimself(CHARACTER)]."
+ nick_the_lord:0 "the Lord"
+ nick_the_lord_desc:1 "Many argue that there's never been a purer expression of martial virtue of chivalric goodness — [CharYouSheHe(CHARACTER)] disdain[_s(CHARACTER)] praise, and [CharAreIs(CHARACTER)] content to live up to the ideals [CharYouSheHe(CHARACTER)] set[_s(CHARACTER)] [CharYourHerHimself(CHARACTER)]."
+ nick_el_campeador:0 "el Campeador"
+ nick_el_campeador_desc:1 "Many argue that there's never been a purer expression of martial virtue of chivalric goodness — [CharYouSheHe(CHARACTER)] disdain[_s(CHARACTER)] praise, and [CharAreIs(CHARACTER)] content to live up to the ideals [CharYouSheHe(CHARACTER)] set[_s(CHARACTER)] [CharYourHerHimself(CHARACTER)]."
+ nick_el_cid:0 "El Cid"
+ nick_el_cid_desc:1 "Many argue that there's never been a purer expression of martial virtue of chivalric goodness — [CharYouSheHe(CHARACTER)] disdain[_s(CHARACTER)] praise, and [CharAreIs(CHARACTER)] content to live up to the ideals [CharYouSheHe(CHARACTER)] set[_s(CHARACTER)] [CharYourHerHimself(CHARACTER)]."
+ nick_el_cid_min:0 "el Cid"
+ nick_el_cid_min_desc:1 "Many argue that there's never been a purer expression of martial virtue of chivalric goodness — [CharYouSheHe(CHARACTER)] disdain[_s(CHARACTER)] praise, and [CharAreIs(CHARACTER)] content to live up to the ideals [CharYouSheHe(CHARACTER)] set[_s(CHARACTER)] [CharYourHerHimself(CHARACTER)]."
+
+ nick_the_cid_campeador:0 "El Cid Campeador"
+ nick_the_cid_campeador_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U] legend is one of awe, chivalry, betrayal, and honor."
+
+ nick_parapinakes:0 "Parapinakes"
+ nick_parapinakes_desc:0 "Dwindling wealth, where gold grew scarce and prosperity ebbed with each coin struck, devaluation follows [CharYourHerHis(CHARACTER)] reign."
+
+ nick_the_quarter-less:0 "the Quarter-Less"
+ nick_the_quarter-less_desc:0 "Dwindling wealth, where gold grew scarce and prosperity ebbed with each coin struck, devaluation follows [CharYourHerHis(CHARACTER)] reign."
+
+ nick_the_amorous:0 "the Amorous"
+ nick_the_amorous_desc:1 "[CharYouSheHe(CHARACTER)] is famed for [CharYourHerHis(CHARACTER)] many romantic entanglements and affairs of the heart."
+
+ nick_the_gallant:0 "the Gallant"
+ nick_the_gallant_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U] chivalric deeds and bravery in battle are the stuff of legend."
+
+ nick_the_curthose:0 "Curthose"
+ nick_the_curthose_desc:1 "As a child, [CharYourHerHis(CHARACTER)] father called [CHARACTER.GetShortUINameNoTooltipNoFormat] "Little Boot". As an adult, [CharYouSheHe(CHARACTER)] can't get people to #EMP stop#! calling [CharYouHerHim(CHARACTER)] Little Boot."
+ nick_the_little_boot:0 "the Little Boot"
+ nick_the_little_boot_desc:1 "As a child, [CharYourHerHis(CHARACTER)] father called [CHARACTER.GetShortUINameNoTooltipNoFormat] "Little Boot". As an adult, [CharYouSheHe(CHARACTER)] can't get people to #EMP stop#! calling [CharYouHerHim(CHARACTER)] Little Boot."
+ nick_the_jarnsida:0 "Járnsíða"
+ nick_the_jarnsida_desc:1 "Spear, axe, sword, arrow — [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] reputed to be able to turn aside any blow, from the most majestic sweep to an assassin's blade."
+ nick_the_ironside:0 "Ironside"
+ nick_the_ironside_desc:1 "Spear, axe, sword, arrow — [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] reputed to be able to turn aside any blow, from the most majestic sweep to an assassin's blade."
+ nick_lodbrok:1 "Loðbrók"
+ nick_lodbrok_desc:1 "The cowering masses of the world call [CharYouHerHim(CHARACTER)] "Hairy Britches", for it is said that [CharYouSheHe(CHARACTER)] wear[_s(CHARACTER)] trousers of hide torn from the corpse of a mighty wyrm. Naturally, one #EMP [CharYouSheHe(CHARACTER)]#! slew."
+ nick_hairy_britches:0 "Hairy Britches"
+ nick_hairy_britches_desc:1 "The cowering masses of the world call [CharYouHerHim(CHARACTER)] "Hairy Britches", for it is said that [CharYouSheHe(CHARACTER)] wear[_s(CHARACTER)] trousers of hide torn from the corpse of a mighty wyrm. Naturally, one #EMP [CharYouSheHe(CHARACTER)]#! slew."
+
+ nick_the_great:0 "the Great"
+ nick_the_great_desc:1 "[CHARACTER.GetShortUINamePossessiveNoTooltipNoFormat|U] achievements are legendary — commoners sing songs of [CharYourHerHis(CHARACTER)] deeds, and the nobility grumble about unfair expectations."
+ 
+ #more nicknames later

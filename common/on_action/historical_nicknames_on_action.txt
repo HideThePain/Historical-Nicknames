@@ -1,0 +1,60 @@
+﻿on_game_start_after_lobby = {
+    on_actions = {
+        cultural_nicknames_on_action
+    }
+}
+
+cultural_nicknames_on_action = {
+    effect = {
+        if = {
+            limit = {
+                has_game_rule = no_nickname_change
+            }
+            #Do nothing derp
+        }
+        else_if = {
+            limit = {
+                has_game_rule = historical_epithets
+            }
+            character:1128 ?= {
+                give_nickname = nick_guiscard # Robert Guiscard
+            }
+            character:984 ?= {
+                give_nickname = nick_canmore # Michael Canmore
+            }
+            character:112 ?= {
+                give_nickname = nick_the_aetheling # Edgar the Aetheling
+            }
+            character:7627 ?= {
+                give_nickname = nick_the_great # Alfred the Great
+            }
+            character:1736 ?= {
+                give_nickname = nick_parapinakes # Michael Parapinakes
+            }
+            character:215530 ?= {
+                give_nickname = nick_the_great # Manuel ho Megas (the Great)
+            }
+            character:102531 ?= {
+                give_nickname = nick_hardrada # Harald Hardrada
+            }
+            character:205506 ?= {
+                give_nickname = nick_augustus # Phillipe Augustus
+            }
+            character:107590 ?= {
+                give_nickname = nick_el_cid_min # Rodrigo el Cid de Vivar
+            }
+            character:214 ?= {
+                give_nickname = nick_the_amorous # Phillipe the Amorous
+            }
+            character:216 ?= {
+                give_nickname = nick_the_great # Hugh the Great
+            }
+            character:204510 ?= {
+                give_nickname = nick_the_lionheart # Richard the Lionheart
+            }
+            character:218 ?= {
+                give_nickname = nick_the_gallant # Henri the Gallant
+            }
+        }
+    }
+}

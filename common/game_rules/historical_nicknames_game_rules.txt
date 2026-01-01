@@ -1,0 +1,16 @@
+﻿historical_nicknames = {
+	default = historical_epithets
+
+	categories = {
+        tweaks
+    }
+	
+	no_nickname_change = {
+		
+	}
+
+	historical_epithets = {
+
+	}
+	
+}

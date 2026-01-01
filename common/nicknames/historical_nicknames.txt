@@ -1,0 +1,38 @@
+﻿#############################################
+# CHARACTER NICKNAMES
+#############################################
+
+#Historical Nicknames
+nick_the_battler = {}
+nick_el_batallador = {}
+nick_the_fox = {}
+nick_guiscard = {}
+nick_transmarinus = {}
+nick_doutremer = {}
+nick_the_great_chief = {}
+nick_canmore = {}
+nick_the_big_headed = {}
+nick_haardraade = {}
+nick_hardrada = {}
+nick_hardruler = {}
+nick_augustus = {}
+nick_the_aetheling = {}
+nick_the_heir = {}
+nick_the_posthumous = {}
+nick_the_venetian = {}
+nick_the_campeador = {}
+nick_the_lord = {}
+nick_el_campeador = {}
+nick_el_cid = {}
+nick_el_cid_min = {}
+nick_the_cid_campeador = {}
+nick_parapinakes = {}
+nick_the_quarter_Less = {}
+nick_the_curthose = {}
+nick_the_little_boot = {}
+nick_the_jarnsida = {}
+nick_the_ironside = {}
+nick_lodbrok = {}
+nick_hairy_britches = {}
+nick_the_amorous = {}
+nick_the_gallant = {}

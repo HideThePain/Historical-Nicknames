@@ -1,0 +1,42 @@
+7627 = {
+	name = "E_lfrE_d" #the Great
+	dna = 7627_earl_alfred
+	dynasty_house = house_british_isles_wessex
+	martial = 11
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 13
+	learning = 13
+	prowess = 11
+	religion = catholic
+	culture = anglo_saxon
+	trait = honest
+	trait = just
+	trait = gregarious
+	trait = diligent
+	trait = intellect_good_2
+	trait = education_martial_4
+	sexuality = heterosexual
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	849.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	859.1.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:33358 } # ?helred, brother and king of Wessex
+		}
+	}
+	867.1.1 = {
+		add_spouse = 306020
+	}
+	890.1.1 = {
+		give_nickname = nick_the_great
+	}
+	899.10.26 = {
+		death = yes
+	}
+}
